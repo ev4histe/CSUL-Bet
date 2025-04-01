@@ -1,2 +1,2 @@
-# CSUL-Bet
+# CSUL Bet
 site de pari
